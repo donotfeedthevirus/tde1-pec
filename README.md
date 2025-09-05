@@ -6,6 +6,7 @@ Trabalho: implementar **Pilha** e **Fila** dinâmicas (lista encadeada) e a oper
 
 Alunos:
 - Gustavo Muniz Scheiffer
+- Vinicius Marcon :) 
 
 ## Como compilar
 
