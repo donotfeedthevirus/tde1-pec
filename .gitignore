@@ -1,0 +1,8 @@
+# arquivos compilados do Java
+*.class
+
+# diretório de saída da compilação
+/out
+
+*~
+.DS_Store
